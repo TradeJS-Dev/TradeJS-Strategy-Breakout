@@ -1,7 +1,7 @@
 {
   "name": "@tradejs/strategy-breakout",
   "version": "3.0.0",
-  "description": "Breakout strategy plugin for TradeJS.",
+  "description": "Rolling support and resistance breakout strategy with confirmation or retest entries and multi-factor scoring for TradeJS.",
   "type": "module",
   "packageManager": "yarn@4.13.0",
   "engines": {
@@ -12,7 +12,10 @@
     "trading",
     "strategy",
     "plugin",
-    "backtesting"
+    "backtesting",
+    "ai",
+    "claude",
+    "codex"
   ],
   "homepage": "https://tradejs.dev",
   "repository": {
