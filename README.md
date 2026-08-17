@@ -8,6 +8,10 @@ TradeJS strategy plugin providing `Breakout`.
 first break, after close confirmation, or on a retest, while trend, volatility,
 OBV, Bollinger, range, candle-body, and volume rules score or filter the setup.
 
+## Logic at a glance
+
+![Breakout strategy logic](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-Breakout/main/docs/strategy-logic.svg)
+
 ## Install
 
 ```bash
