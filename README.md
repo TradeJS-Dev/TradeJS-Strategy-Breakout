@@ -12,6 +12,15 @@ OBV, Bollinger, range, candle-body, and volume rules score or filter the setup.
 
 ![Breakout strategy logic](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-Breakout/main/docs/strategy-logic.svg)
 
+## Signal on an example chart
+
+This retest-mode example marks the rolling resistance, the first accepted break, and the later hold that releases the LONG signal.
+
+![Breakout signal on an illustrative ticker chart](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-Breakout/main/docs/signal-example.svg)
+
+The illustration is schematic, not market data. Exact thresholds, confirmation
+rules, and risk parameters come from the active TradeJS strategy config.
+
 ## Install
 
 ```bash
