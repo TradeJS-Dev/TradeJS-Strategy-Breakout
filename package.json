@@ -1,6 +1,6 @@
 {
   "name": "@tradejs/strategy-breakout",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Rolling support and resistance breakout strategy with confirmation or retest entries and multi-factor scoring for TradeJS.",
   "type": "module",
   "packageManager": "yarn@4.13.0",
